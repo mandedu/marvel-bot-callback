@@ -1,0 +1,28 @@
+* {
+    font-family: 'Vazir', sans-serif;
+}
+
+.success {
+    color: green;
+}
+
+.error {
+    color: red;
+}
+
+a {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: rgb(86, 161, 106);
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
